@@ -1,0 +1,6 @@
+{
+  "name": "StockTrack",
+  "description": "Inventory Management System with Supplier Tracking, Purchase Orders, Stock Ledger, and Business Reports for SMBs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
